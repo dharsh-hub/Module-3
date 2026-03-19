@@ -21,9 +21,7 @@ print(total)
 Thus,the program has been executed successfully.
 
 # Regex in Python: Filter Words Without the Letter 'e'
-Name: SRIRANJANI M
 
-Register No: 212224040327
 ## 🎯 Aim
 To write a Python program that filters out and returns all elements from a list **that do not contain the letter `'e'`**, using **regular expressions (regex)**.
 
@@ -55,9 +53,7 @@ Thus,the program has been executed successfully.
 
 # Module-3
 # 🧹 Strings-Remove Nth Index Character from a String
-Name: SRIRANJANI M
 
-Register No: 212224040327
 ## 🎯 Aim
 To write a Python program that accepts a string and removes the character at a specified index.
 
@@ -92,9 +88,7 @@ print(a)
 Thus,the program has been executed successfully.
 
 # Strings-Palindrome Check in Python (Without Built-in Functions)
-Name: SRIRANJANI M
 
-Register No: 212224040327
 ## 🎯 Aim
 To write a Python program to check whether the string `"google"` is a **palindrome** or not, without using built-in palindrome checking functions.
 
